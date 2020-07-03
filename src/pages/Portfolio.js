@@ -48,14 +48,14 @@ function Portfolio (){
           <Row>
       <Col sm={4} md={6}>
           <a href="https://stormy-peak-37685.herokuapp.com/" class="thumbnail">
-          <img src="Eat-da-Burger (Node Express).png" alt="Eat-Da-Burger"/>
+          <img src="Eat-da-Burger.png" alt="Eat-Da-Burger"/>
           </a>
           <h2>Eat-Da-Burger</h2>
           <h5><a href="https://stormy-peak-37685.herokuapp.com/">Project</a></h5>
           <h5><a href="https://github.com/TedBelanoff/HW13-Node-Express-Handlebars">Repo</a></h5>
           </Col>
       <Col sm={4} md={6}>
-          <a href="https://stormy-peak-37685.herokuapp.com/" class="thumbnail">
+          <a href="https://quarantini-gifting.herokuapp.com/" class="thumbnail">
           <img src="Quarantini-Gifting.PNG" alt="Quarantini-Gifting"/>
           </a>
           <h2>Quarantini-Gifting</h2>
