@@ -38,7 +38,7 @@ function Portfolio (){
       </Col>
       <Col sm={4} md={6}>
           <a href="https://whispering-garden-63170.herokuapp.com/" class="thumbnail">
-          <img src="NoteTaker.png" alt="Note Taker"/>
+          <img src="Notetaker.png" alt="Note Taker"/>
           </a>
           <h2>Note Taker</h2>
           <h5><a href="https://whispering-garden-63170.herokuapp.com/">Project</a></h5>
