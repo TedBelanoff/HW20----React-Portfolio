@@ -7,7 +7,7 @@ function Contact(){
       <div class="card">
       {/* Contact Information */}
       <h1 class="card-header">Contact</h1>
-      <h4>Name: Ted Belnoff</h4>
+      <h4>Name: Ted Belanoff</h4>
       <h4>Phone: 650-207-1907</h4>
       <h4>Email: TedBelanoff@gmail.com</h4>
       <h3></h3>
